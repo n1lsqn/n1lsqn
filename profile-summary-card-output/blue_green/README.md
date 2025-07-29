@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/n1lsqn/n1lsqn/main/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
