@@ -105,8 +105,10 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**まろに屋 (maronmaroniya.com)**](https://maronmaroniya.com) | VRChatを中心に活動するクリエイターチーム＆ショップ「まろに屋」の公式Webサイト（本番稼働中） | `Next.js 16` `React 19` `Cloudflare` `Tailwind CSS` |
+| **Mirror Player** | ABEMA風UIを採用したセルフホスト型動画管理・再生PWA。スロー・左右反転再生、FFmpegサムネイル自動生成、Google OAuth認証に対応 | `Next.js` `TypeScript` `Node.js` `Prisma` `Docker` `PWA` |
 | [**Ataru-X**](https://github.com/n1lsqn/Ataru-X) | X（Twitter）のキャンペーン応募条件（フォロー・RT・いいね等）を柔軟に組み合わせて公平な自動抽選を行うWebプラットフォーム | `TypeScript` `Next.js` `React` `Docker` |
 | [**Kintai**](https://github.com/n1lsqn/kintai-fe) ([FE](https://github.com/n1lsqn/kintai-fe) / [BE](https://github.com/n1lsqn/kintai-be)) | コンテナ環境で動作する作業・勤怠管理フルスタックWebアプリケーション（React GUI + Express/Prisma API） | `TypeScript` `React` `Express` `Prisma` `Docker` |
+| **Gachapon PWA** | 仮想カプセルの抽選・カテゴリ絞り込みが可能なインタラクティブPWA。Service Workerによる完全オフライン動作に対応 | `Next.js` `React 19` `TypeScript` `PWA` `Cloudflare` |
 | **Orbit POS** | 即売会・リアルイベント出展向けのオフライン対応 PWA 簡易POSレジシステム（ダークガラスモフィズムUI） | `Next.js` `TypeScript` `PWA` `Cloudflare` |
 
 #### ⚡ Automation, Bots & Cloud Tools
