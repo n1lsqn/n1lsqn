@@ -34,6 +34,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
 #### Infrastructure & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -86,11 +96,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**np2misk**](https://github.com/n1lsqn/np2misk) | Spotifyで再生中の楽曲情報をMisskey / Sharkeyへリアルタイム自動投稿するBot | `TypeScript` `Misskey API` `Spotify API` |
-| [**profile-summary-cards**](https://github.com/n1lsqn/profile-summary-cards) | GitHub と セルフホストGitLab の活動データを統合・可視化するSVGカード自動生成ジェネレーター | `TypeScript` `GitLab CI/CD` `D3.js` |
-| [**MisskeyDriveDownloader**](https://github.com/n1lsqn/MisskeyDriveDownloader) | Misskey ドライブ上のファイル・メディアを一括バックアップ・ダウンロードするユーティリティ | `TypeScript` `Node.js` |
-| [**LiveCanvas**](https://github.com/n1lsqn/LiveCanvas) | インタラクティブな描画・グラフィック操作ツール | `C#` `.NET` |
-| [**status**](https://github.com/n1lsqn/status) | 運用中サービスおよびセルフホストサーバーの稼働状態を監視するステータスページ | `Upptime` `Monitoring` |
+| [**LiveCanvas**](https://github.com/n1lsqn/LiveCanvas) | CLIP STUDIO PAINT (`.clip`) や Photoshop (`.psd`) のバイナリ・内部SQLiteを解析し、描画内容をUnityテクスチャへリアルタイム同期するUnityエディタ拡張 | `C#` `Unity Editor` `SQLite` `Binary Parsing` |
+| [**AutoApplyPlayModeChanges**](https://github.com/n1lsqn/AutoApplyPlayModeChanges) | UnityのPlay Mode中に行ったアバター・コンポーネントの調整値を自動保存し、Edit Modeへ復元・適用するエディタ拡張 | `C#` `Unity Editor` `VRCSDK3` |
+| [**Ataru-X**](https://github.com/n1lsqn/Ataru-X) | X（Twitter）のキャンペーン応募条件（フォロー・RT・いいね等）を柔軟に組み合わせて公平な自動抽選を行うWebプラットフォーム | `TypeScript` `Next.js` `React` `Docker` |
+| [**MisskeyDriveDownloader**](https://github.com/n1lsqn/MisskeyDriveDownloader) | Misskey ドライブ内のメディアファイルやストレージデータを一括取得・バックアップするユーティリティ | `TypeScript` `NestJS` `Node.js` `AWS S3` |
+| [**Kintai**](https://github.com/n1lsqn/kintai-fe) ([FE](https://github.com/n1lsqn/kintai-fe) / [BE](https://github.com/n1lsqn/kintai-be)) | Dockerコンテナベースで動作する作業・勤怠管理フルスタックWebアプリケーション | `TypeScript` `React` `Express` `Prisma` `Docker` |
 
 ---
 
