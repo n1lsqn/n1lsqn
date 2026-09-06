@@ -117,7 +117,6 @@
 | [**MisskeyDriveDownloader**](https://github.com/n1lsqn/MisskeyDriveDownloader) | Misskey ドライブ内のメディアファイルやストレージデータを一括取得・バックアップするユーティリティ | `TypeScript` `NestJS` `Node.js` `AWS S3` |
 | **Support Log Distiller** | サポートメール送受信CSVをチケット単位で自動分割し、Open WebUI API（LLM）で一括要約を生成してNotionデータベースへ自動蓄積する自動化パイプライン | `TypeScript` `Open WebUI API` `Notion API` `Node.js` |
 | **Discord Voice Alarm Bot** | 指定スケジュール・日時にDiscordのボイスチャンネルへ自動接続し、アラーム音やサウンド通知を再生するBot | `TypeScript` `discord.js` `@discordjs/voice` `SQLite` `Docker` |
-| [**booth-chatbot**](https://github.com/n1lsqn/booth-chatbot) | BOOTHショップの問い合わせ対応や運用を支援する Next.js ベースのAIチャットボットシステム | `TypeScript` `Next.js` `React` `LLM` |
 
 ---
 
