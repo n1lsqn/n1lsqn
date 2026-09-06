@@ -100,7 +100,6 @@
 | [**LiveCanvas**](https://github.com/n1lsqn/LiveCanvas) | CLIP STUDIO PAINT (`.clip`) や Photoshop (`.psd`) のバイナリ・内部SQLiteを解析し、描画内容をUnityテクスチャへリアルタイム同期するUnityエディタ拡張 | `C#` `Unity Editor` `SQLite` `Binary Parsing` |
 | [**@n1l VPM Packages**](https://gitlab.n1l.dev/n1lsqn/vpm-repos) | VRChat Creator Companion (VCC) / ALCOM 向け公式パッケージリポジトリ。アップロード通知音やベイク通知、Playmode Color Managerなど各種制作支援ツールを配信 | `Unity` `C#` `VPM/VCC` `GitLab CI/CD` |
 | [**AutoApplyPlayModeChanges**](https://github.com/n1lsqn/AutoApplyPlayModeChanges) | UnityのPlay Mode中に行ったアバター・コンポーネントの調整値を自動保存し、Edit Modeへ復元・適用するエディタ拡張 | `C#` `Unity Editor` `VRCSDK3` |
-| [**NOWA_SHOP**](https://nogiwa.booth.pm/) | VRChatアバター向けギミック・衣装およびUnity拡張ツール（`PhysBoneKeeper` / `UnusedAssetCleaner` 等）の開発・販売 | `VRChat` `Unity` `3D Assets` `Tooling` |
 
 #### 🌐 Web Applications & Platforms
 | Project | Description | Tech Stack |
