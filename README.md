@@ -92,15 +92,31 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Works
 
+#### 🎮 VRChat & Unity Tools
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**LiveCanvas**](https://github.com/n1lsqn/LiveCanvas) | CLIP STUDIO PAINT (`.clip`) や Photoshop (`.psd`) のバイナリ・内部SQLiteを解析し、描画内容をUnityテクスチャへリアルタイム同期するUnityエディタ拡張 | `C#` `Unity Editor` `SQLite` `Binary Parsing` |
+| [**@n1l VPM Packages**](https://gitlab.n1l.dev/n1lsqn/vpm-repos) | VRChat Creator Companion (VCC) / ALCOM 向け公式パッケージリポジトリ。アップロード通知音やベイク通知、Playmode Color Managerなど各種制作支援ツールを配信 | `Unity` `C#` `VPM/VCC` `GitLab CI/CD` |
 | [**AutoApplyPlayModeChanges**](https://github.com/n1lsqn/AutoApplyPlayModeChanges) | UnityのPlay Mode中に行ったアバター・コンポーネントの調整値を自動保存し、Edit Modeへ復元・適用するエディタ拡張 | `C#` `Unity Editor` `VRCSDK3` |
+| [**NOWA_SHOP**](https://nogiwa.booth.pm/) | VRChatアバター向けギミック・衣装およびUnity拡張ツール（`PhysBoneKeeper` / `UnusedAssetCleaner` 等）の開発・販売 | `VRChat` `Unity` `3D Assets` `Tooling` |
+
+#### 🌐 Web Applications & Platforms
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**まろに屋 (maronmaroniya.com)**](https://maronmaroniya.com) | VRChatを中心に活動するクリエイターチーム＆ショップ「まろに屋」の公式Webサイト（本番稼働中） | `Next.js 16` `React 19` `Cloudflare` `Tailwind CSS` |
 | [**Ataru-X**](https://github.com/n1lsqn/Ataru-X) | X（Twitter）のキャンペーン応募条件（フォロー・RT・いいね等）を柔軟に組み合わせて公平な自動抽選を行うWebプラットフォーム | `TypeScript` `Next.js` `React` `Docker` |
+| [**Kintai**](https://github.com/n1lsqn/kintai-fe) ([FE](https://github.com/n1lsqn/kintai-fe) / [BE](https://github.com/n1lsqn/kintai-be)) | コンテナ環境で動作する作業・勤怠管理フルスタックWebアプリケーション（React GUI + Express/Prisma API） | `TypeScript` `React` `Express` `Prisma` `Docker` |
+| **Orbit POS** | 即売会・リアルイベント出展向けのオフライン対応 PWA 簡易POSレジシステム（ダークガラスモフィズムUI） | `Next.js` `TypeScript` `PWA` `Cloudflare` |
+
+#### ⚡ Automation, Bots & Cloud Tools
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
 | [**MisskeyDriveDownloader**](https://github.com/n1lsqn/MisskeyDriveDownloader) | Misskey ドライブ内のメディアファイルやストレージデータを一括取得・バックアップするユーティリティ | `TypeScript` `NestJS` `Node.js` `AWS S3` |
-| [**Kintai**](https://github.com/n1lsqn/kintai-fe) ([FE](https://github.com/n1lsqn/kintai-fe) / [BE](https://github.com/n1lsqn/kintai-be)) | Dockerコンテナベースで動作する作業・勤怠管理フルスタックWebアプリケーション | `TypeScript` `React` `Express` `Prisma` `Docker` |
+| **Support Log Distiller** | サポートメール送受信CSVをチケット単位で自動分割し、Open WebUI API（LLM）で一括要約を生成してNotionデータベースへ自動蓄積する自動化パイプライン | `TypeScript` `Open WebUI API` `Notion API` `Node.js` |
+| **Discord Voice Alarm Bot** | 指定スケジュール・日時にDiscordのボイスチャンネルへ自動接続し、アラーム音やサウンド通知を再生するBot | `TypeScript` `discord.js` `@discordjs/voice` `SQLite` `Docker` |
+| [**booth-chatbot**](https://github.com/n1lsqn/booth-chatbot) | BOOTHショップの問い合わせ対応や運用を支援する Next.js ベースのAIチャットボットシステム | `TypeScript` `Next.js` `React` `LLM` |
 
 ---
 
